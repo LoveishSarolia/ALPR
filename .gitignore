@@ -44,3 +44,4 @@ target_data/
 *.bak
 *.old
 
+.claude/settings.local.json
